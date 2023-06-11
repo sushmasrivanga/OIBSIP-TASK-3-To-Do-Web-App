@@ -1,5 +1,4 @@
 # OIBSIP-TASK-3-To-Do-Web-App
-# OIBSIP
 Oasis Infobytes Web Development and Designing Intern
 
 
